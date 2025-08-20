@@ -26,7 +26,8 @@ Cloud & DevOps: Firebase, GitHub Actions, Oracle APEX
 ## 🎓 Education
 
 ## 🌐 Socials
-https://www.linkedin.com/in/praful-kadam-dev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiMb6PhkkTLqeGiQlCUj61A%3D%3D
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praful-kadam-dev/)
 https://github.com/007PK007
 
 📫 Email: prafulpksn@gmail.com
