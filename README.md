@@ -13,7 +13,12 @@ Hello! I'm Praful Kadam, a passionate Full-Stack Software Engineer with 4+ years
 ---
 
 ## 📌 Current Roles
-"*"
+
+- **Software Engineer @ FieldFlex** | *Nov 2023 – Present*  
+  → Developing and maintaining a web app using **React** & **Node.js** to provide asset management and employee maintainance.
+
+- **Software Engineer @ MAQ Software** | *Oct 2021 – Nov 2023*  
+  → Working on an admin app using **React** & **Node.js** to manage a cross-border money transfer platform.
 
 ---
 
