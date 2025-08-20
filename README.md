@@ -33,7 +33,7 @@ Hello! I'm Praful Kadam, a passionate Full-Stack Software Engineer with 4+ years
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praful-kadam-dev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praful-kadam-dev/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/007PK007)
 
 📫 **Email**: prafulpksn@gmail.com
