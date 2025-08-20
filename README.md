@@ -18,26 +18,34 @@ Hello! I'm Praful Kadam, a passionate Full-Stack Software Engineer with 4+ years
 ---
 
 ## 🛠️ Tech Stack
-**Languages**: Javascript, C++, TypeScript, HTML, CSS
-**Frontend**: React, React Native, Angular, Vue, Bootstrap, jQuery
-**Backend**: Node.js, Spring Boot, ASP.NET, Django
-**Databases**: MySQL, PostgreSQL, MongoDB, Oracle, MSSQL
-**Messaging & Processing**: Apache Kafka, Apache Spark
-**Tools**: Git, Jira, Confluence, Jenkins, Docker, Kibana, Figma, Postman
-**Cloud & DevOps**: Firebase, GitHub Actions, Oracle APEX
+**Languages**: Javascript, C++, TypeScript, HTML, CSS  
+**Frontend**: React, React Native, Angular, Vue, Bootstrap, jQuery  
+**Backend**: Node.js, Spring Boot, ASP.NET, Django  
+**Databases**: MySQL, PostgreSQL, MongoDB, Oracle, MSSQL  
+**Messaging & Processing**: Apache Kafka, Apache Spark  
+**Tools**: Git, Jira, Confluence, Jenkins, Docker, Kibana, Figma, Postman  
+**Cloud & DevOps**: Firebase, GitHub Actions, Oracle APEX  
+
+---
 
 ## 🧩 Featured Projects
 "*"
 
+---
+
 ## 🎓 Education
+
+🎓 Bachelor of Engineering in Computer Science – MIT, Pune (2016 – 2020)
+
+---
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praful-kadam-dev/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/007PK007)
 
-📫 **Email**: prafulpksn@gmail.com
-📍 **Location**: Ontario, Canada
+📫 **Email**: prafulpksn@gmail.com  
+📍 **Location**: Ontario, Canada  
 <!--
 **007PK007/007PK007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
