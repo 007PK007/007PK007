@@ -8,10 +8,10 @@ Hello! I'm Praful Kadam, a passionate Full-Stack Software Engineer with 4+ years
 “*”🤝 Collaborate & Communicate: I thrive in Agile teams, collaborating across departments and communicating effectively with both technical and non-technical stakeholders.
 “*”🌱 Learn & Adapt: I constantly explore new tools, frameworks, and methodologies to evolve with the tech landscape.
 
-##📌 Current Roles
+## 📌 Current Roles
 "*"
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Languages: Javascript, C++, TypeScript, HTML, CSS
 Frontend: Angular, React, React Native, Vue, Bootstrap, jQuery
 Backend: Spring Boot, Node.js, ASP.NET, Django
@@ -20,12 +20,12 @@ Messaging & Processing: Apache Kafka, Apache Spark
 Tools: Git, Jira, Confluence, Jenkins, Docker, Kibana, Figma, Postman
 Cloud & DevOps: Firebase, GitHub Actions, Oracle APEX
 
-##🧩 Featured Projects
+## 🧩 Featured Projects
 "*"
 
-##🎓 Education
+## 🎓 Education
 
-##🌐 Socials
+## 🌐 Socials
 https://www.linkedin.com/in/praful-kadam-dev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiMb6PhkkTLqeGiQlCUj61A%3D%3D
 https://github.com/007PK007
 
